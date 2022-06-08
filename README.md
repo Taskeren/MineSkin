@@ -20,16 +20,16 @@ The players' ID.
 #### (empty)
 Return the url directly.
 ```
-http://textures.minecraft.net/texture/d86bbfcda11dd58bf5576bb8e2c04b290893e690cf51584d08e63525caab2af7
+http://textures.minecraft.net/texture/292009a4925b58f02c77dadc3ecef07ea4c7472f64e0fdc32ce5522489362680
 ```
 
 #### json
-Return the json that contains `url`.
+Return the json that contains `url` and `profile`.
 ```
-{"url":"http://textures.minecraft.net/texture/d86bbfcda11dd58bf5576bb8e2c04b290893e690cf51584d08e63525caab2af7"}
+{"url":"http:\/\/textures.minecraft.net\/texture\/292009a4925b58f02c77dadc3ecef07ea4c7472f64e0fdc32ce5522489362680","profile":{"name":"Notch","id":"069a79f444e94726a5befca90e38aaf5"}}
 ```
 
 #### image
 Return the image file.
 
-![](http://textures.minecraft.net/texture/d86bbfcda11dd58bf5576bb8e2c04b290893e690cf51584d08e63525caab2af7)
+![](http://textures.minecraft.net/texture/292009a4925b58f02c77dadc3ecef07ea4c7472f64e0fdc32ce5522489362680)
